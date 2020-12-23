@@ -1,0 +1,105 @@
+body {
+  background-color: #fafafa;
+  font-family: times new roman, baskerville old face;
+}
+
+h1 {
+  color: black;
+  border-top: 10px solid #EEF7FC;
+  border-bottom: 5px solid #EEF7FC;
+  width: 750px;
+  margin: 10px auto;
+  }
+  /* 9EEEFA -- 0AA9C2 */
+
+.topbar {
+  background-color: #EEF7FC;
+  width: 100%;
+  margin: 0 auto;
+}
+/* D8F8FD */
+.columns {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.column {
+  margin: 50 auto;
+}
+
+.softwrap{
+  width: 250px;
+}
+
+h2 {
+  color: black;
+  border-top: 5px solid #0B090B;
+  border-bottom: 5px solid #0B090B;
+  padding: 10px;
+}
+
+h3 {
+  color: black;
+  border-top: 5px solid #0B090B;
+  border-bottom: 5px solid #0B090B;
+  padding: 10px;
+}
+
+main{
+  background-color: #F5F5F5;
+
+}
+/* this one */
+.intro1 {
+    width: 750px;
+    margin: 10px auto;
+    text-align: center
+
+}
+
+.test-results {
+  width: 750px;
+  margin: 10px auto;
+  text-align: center
+}
+
+.intro-quote {
+  color: #0A1045;
+  font-family: baskerville old face;
+  font-style: italic;
+  text-align: center;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #FFFCD6;
+
+}
+/* I learnt how to consolidate the margins on the Scrimba tutorial */
+
+.images {
+  text-align: left;
+  width: 750px;
+  margin: 0 auto;
+}
+
+.idealjob {
+  width: 750px;
+  margin: 10px auto;
+  text-align: center
+}
+
+.skills {
+  text-align: left;
+}
+
+#name-style {
+  color: black;
+  font-size: 35px;
+  font-family: times new roman, baskerville old face; arial;
+  margin-top: 30px;
+  text-align: center;
+}
+
+/* This is my note */
+/* black = #0B090B */
